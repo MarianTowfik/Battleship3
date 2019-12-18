@@ -75,7 +75,7 @@ function shootSebbe() {
     if (hitCounter == 14) {
         alert("Grattis, du vinner!");
     }
-    else if (gusseCounter == 35) {
+    else if (gusseCounter == 33) {
         alert("Du förlorar!!");
     }
 }
